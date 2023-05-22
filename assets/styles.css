@@ -47,6 +47,31 @@ nav ul li a:hover{
   -ms-transition:.4s;
   -o-transition:.4s;
 }
+.btn{
+  background-color:var(--crimson);
+  color: var(--grey);
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding: 2px 25px;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  transition: transform .4s;
+  -webkit-transition: transform .4s;
+  -moz-transition: transform .4s;
+  -ms-transition: transform .4s;
+  -o-transition: transform .4s;
+}
+.btn:hover{
+  transform:scale(1.2);
+  -webkit-transform:scale(1.2);
+  -moz-transform:scale(1.2);
+  -ms-transform:scale(1.2);
+  -o-transform:scale(1.2);
+}
 
 
 
