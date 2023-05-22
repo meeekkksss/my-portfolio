@@ -7,7 +7,7 @@
 .hero{
   height: 100vh;
   width: 100%; 
-  background-image: url(https://images.unsplash.com/photo-1616088410192-d1b123712994?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80);
+  background-image: url(https://images.unsplash.com/photo-1535242208474-9a2793260ca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z3JlZW5lcnl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1400&q=60);
   background-size: cover;
   background position:center;
 }
@@ -20,7 +20,7 @@ nav{
   padding-right: 8%;
 }
 .logo{
-  color: var(--dark);
+  color: var(--grey);
   font-size: 35px;
   letter-spacing: 20px;
   cursor:pointer;
@@ -34,7 +34,7 @@ nav ul li{
   padding: 10px 25px 10px 12px;
 }
 nav ul li a{
-  color: var(--dark);
+  color: var(--grey);
   text-decoration: none;
   font-weight: bold;
   text-transform: capitalize;
@@ -94,7 +94,7 @@ h3{
   margin-bottom: 50px;
 }
 h4{
-  color: var(--dark);
+  color: var(--blue);
   letter-spacing: 6px;
   font-size: 20px;
 }
@@ -210,6 +210,10 @@ button:hover{
   --hot-pink: hotpink;
   --crimson:#ff2e63;
   --grey:#eaeaea;
+  --purple: #603f8b;
+  --violet: #a16ae8;
+  --fuscha: #fd49a0;
+  --aqua: #b4fee7;
 }
 
 
