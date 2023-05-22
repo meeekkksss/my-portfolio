@@ -1,0 +1,11 @@
+*{ 
+  padding:0;
+  margin: 0;
+  font-family: 'Shadows Into Light' cursive;
+  box-sizing:border-box;
+}
+.hero{
+  height: 100vh;
+  width: 100%; 
+  background-image: url(https://images.unsplash.com/photo-1531436040007-7216019112d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80);
+}
