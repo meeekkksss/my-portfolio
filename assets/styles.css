@@ -196,6 +196,51 @@ button:hover{
   cursor: pointer;
 }
 
+.skills{
+  background: var(--dark);
+  width: 100%;
+  padding: 200px 0px;
+}
+.title{
+  color: #f9ff41;
+  font-size: 75px;
+  width: 1130px;
+  margin: 40px auto;
+  text-align: center;
+}
+.box{
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+}
+.card{
+  height: 365px;
+  width: 335px;
+  padding: 20px 35px;
+  background: var(--light-blue);
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  margin: 15px;
+  position: relative;
+  overflow:hidden;
+  text-align: center;
+}
+.card i{
+  font-size: 50px; 
+  display:block;
+  text-align:center;
+  margin: 25px 0px;
+  color: var(--hot-pink);
+}
+h5{
+  color:#f9ff41;
+  font-size: 23px;
+  margin-bottom: 15px;
+}
 
 
 
@@ -214,6 +259,7 @@ button:hover{
   --violet: #a16ae8;
   --fuscha: #fd49a0;
   --aqua: #b4fee7;
+  --background: rgb(46, 53, 75);
 }
 
 
