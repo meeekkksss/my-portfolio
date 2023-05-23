@@ -1,9 +1,11 @@
+/* root code */
 *{ 
   padding:0;
   margin: 0;
   font-family: 'Shadows Into Light' cursive;
   box-sizing:border-box;
 }
+/* Hero/Main section */
 .hero{
   height: 100vh;
   width: 100%; 
@@ -11,6 +13,7 @@
   background-size: cover;
   background-position:center;
 }
+/* Nav-bar */
 nav{
   display: flex;
   align-items: center; 
@@ -19,26 +22,31 @@ nav{
   padding-left: 8%;
   padding-right: 8%;
 }
+/* "Portfolio"  */
 .logo{
   color: var(--grey);
   font-size: 35px;
   letter-spacing: 20px;
   cursor:pointer;
 }
+/* Lio styling section of Portfolio */
 span{
   color: hotpink;
 }
+/* navbar listed items styling */
 nav ul li{ 
   list-style-type: none;
   display: inline-block;
   padding: 10px 25px 10px 12px;
 }
+/* navbar styling */
 nav ul li a{
   color: var(--grey);
   text-decoration: none;
   font-weight: bold;
   text-transform: capitalize;
 }
+/* hover styling for text in nav bar */
 nav ul li a:hover{
   color:var(--hot-pink);
   transition: 0.4s;;
@@ -47,6 +55,7 @@ nav ul li a:hover{
   -ms-transition:.4s;
   -o-transition:.4s;
 }
+/* Subsribe button in Navbar styling */
 .btn{
   background-color:var(--crimson);
   color: var(--grey);
@@ -65,6 +74,7 @@ nav ul li a:hover{
   -ms-transition: transform .4s;
   -o-transition: transform .4s;
 }
+/* subsribe button hover styling */
 .btn:hover{
   transform:scale(1.2);
   -webkit-transform:scale(1.2);
@@ -72,6 +82,7 @@ nav ul li a:hover{
   -ms-transform:scale(1.2);
   -o-transform:scale(1.2);
 }
+/* Main content styling */
 .content{
   position:absolute;
   top: 50%;
@@ -82,27 +93,32 @@ nav ul li a:hover{
   -ms-transform:translateY(-50%);
   -o-transform:translateY(-50%);
 }
-h1{
+/* Styling to Merika section */
+.content h1{
   color: var(--grey);
   margin-bottom: 20px 0px 20px;
   font-size: 75px;
   letter-spacing: 24px;
 }
+/* I am a web developer styling */
 h3{
   color:var(--grey);
   font-size:25px; 
   margin-bottom: 50px;
 }
+/* Hello my name is styling  */
 h4{
   color: var(--blue);
   letter-spacing: 2px;
   font-size: 20px;
 }
+/* Email styling */
 .email form{
   width: 380px;
   max-width: 100%;
   position: relative;
 }
+/* outside border of email contact form */
 .email form input:first-child{
   display: inline-block;
   width: 100%;
@@ -115,6 +131,7 @@ h4{
   -ms-border-radius:30px;
   -o-border-radius:30px;
 }
+/* inside styling of email contact form + "lets start" button styling */
 .email form input:last-child{
   position: absolute;
   display: inline-block;
@@ -132,6 +149,7 @@ h4{
   top: 6px;
   right: 6px;
 }
+/* About me section Styling  */
 .about{
   width: 100%;
   padding:0px 100px 10px 0px;
@@ -139,11 +157,13 @@ h4{
   display:flex;
   align-items: center;
 }
+/* about me image section styling */
 .about img{
   height: 500px; 
   width: 750px;
   margin-right: 80px;
 }
+/* about me text styling */
 .about-text{
   width: 650px;
 }
@@ -153,7 +173,7 @@ h4{
   margin: 0 auto;
   display:flex;
   align-items:center;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 .about-text h2{
   color: var(--grey);
@@ -174,6 +194,8 @@ h4{
   line-height: 28px;
   font-size: 18px;
   margin-bottom: 45px;
+  display:flex;
+  flex-wrap: wrap;
 }
 button{
   background-color: var(--crimson);
