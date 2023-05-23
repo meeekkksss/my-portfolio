@@ -306,8 +306,31 @@ h5{
 }
 .contact-me .button-two:hover{
   background-color: transparent;
-  border: 2px solid #C0FDFF;
+  border: 2px solid #5CD85A;
   cursor: pointer;
+}
+footer{
+  position: relative;
+  width: 100%;
+  height: 200px; 
+  background: var(--background);
+  display: flex;
+  flex-direction:column;
+  align-items: center; 
+  justify-content: center;
+}
+footer p:nth-child(1){
+  font-size: 30px; 
+  color: var(--grey);
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+footer p:nth-child(2){
+  color: var(--grey);
+  font-size: 17px;
+  width: 500px;
+  text-align:center; 
+
 }
 
 
@@ -326,13 +349,4 @@ h5{
   --fuscha: #fd49a0;
   --aqua: #b4fee7;
   --background: rgb(46, 53, 75);
-}
-
-
-footer{
-  border: 4px solid var(--grey);
-  background-color: var(--grey);
-}
-.footer{
-  display:flexbox
 }
