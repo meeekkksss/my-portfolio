@@ -1,7 +1,7 @@
 # my-portfolio
 A portfolio about me and my skills as webdeveloper.
-![Main Section](./MAIN%20SECTION.png/MAIN%20SECTION.png)
-![About Me](./About%20Me%20Section.pngbout%20Me%20Section.png)
+![Main Section](./MAIN%20SECTION.png)
+![About Me](./About%20Me%20Section.png)
 ![Contact](#)
 ## Author
 Merika Toby
