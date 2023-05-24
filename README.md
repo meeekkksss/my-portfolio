@@ -7,7 +7,7 @@
 ![Github](./GIthub%20Repo%20-%20My%20portfolio.png)
 * Released on Github (Cloud provider)
 
-* Initial work - git@github.com:meeekkksss/my-portfolio.git (Repository space)
+* Initial work - https://github.com/meeekkksss/my-portfolio (Repository space)
 
 ## Usage
 
