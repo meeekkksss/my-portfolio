@@ -2,7 +2,7 @@
 A portfolio about me and my skills as webdeveloper.
 ![Main Section](./assets/MAIN%20SECTION.png)
 ![About Me](./assets/About%20Me%20Section.png)
-![Skills/ Projects](./assets/MAIN%20SECTION.png)
+![Contact](#)
 ## Author
 Merika Toby
 * Initial work- git@github.com:meeekkksss/my-portfolio.git (Repository space)
