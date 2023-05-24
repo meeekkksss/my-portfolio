@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on [my-portfolio](https://meeekkksss.github.io/my-portfolio/?email=&submit=Let%27s+Start#home)
 
 ![Github](./GIthub%20Repo%20-%20My%20portfolio.png)
-* Released on Github (Cloud provider)
+* Released on Github 
 
-* Initial work - https://github.com/meeekkksss/my-portfolio (Repository space)
+* Initial work - https://github.com/meeekkksss/my-portfolio
 
 ## Usage
 
