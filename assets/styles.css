@@ -434,28 +434,7 @@ footer p:nth-child(2){
   bottom: 35px;
   font-size: 14px;
 }
-/* this will make adjustments for screens 768px */
-@media screen and (max-width: 768px) {
-  /* Main content styling */
-  .content{
-    width: 90%;
-    left: 50%; 
-    /* about me image section styling */
-  }
-  .about img{
-    height: auto;
-    width: 100%; 
-    margin-right: 0;
-    margin-bottom: 30px;
-  }
-}
-/* this will make adjustments for screens 480px */
-@media screen and (max-width: 480px;{
-  /* about me text styling */
-  .about-text{
-    width: 100%;
-  }
-}
+
 
 
 
