@@ -10,8 +10,7 @@
 This project was designed to demonstrate: 
 * CSS 
 * HTML
-* What I've learned so far
-* Implementing skills and showecasing what I've learned so 
+* Implementing skills and showecasing what I've learned so far
 ![Main-content](./MAIN%20SECTION.png)
 ![About Me](./About%20Me%20Section.png)
 
