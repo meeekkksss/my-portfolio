@@ -82,6 +82,27 @@ nav ul li a:hover{
   -ms-transform:scale(1.2);
   -o-transform:scale(1.2);
 }
+/* hover-1 container */
+.hover-1{
+  position: relative;
+  display:inline-block;
+  border-bottom: 1px dotted var(--crimson);
+}
+.hover1-text{
+  display: none;
+  position:absolute;
+  top: 60px;
+  left: 0;
+  width:100%px;
+  background-color: var(--dark);
+  padding: 10px;
+  border: 10px solid var(--dark);
+  font-size: 14px;
+}
+.btn:hover .hover1-text{
+  display:block;
+}
+
 /* Main content styling */
 .content{
   position:absolute;
@@ -296,8 +317,9 @@ h5{
   border: 2px solid var(--crimson);
   cursor: pointer;
 }
+/* contact section styling */
 .contact-me{
-  width: 100% 
+  width: 100%;
   height: 29px; 
   background: var(--light-blue);
   display:flex; 
@@ -335,6 +357,22 @@ h5{
   border: 2px solid #5CD85A;
   cursor: pointer;
 }
+/* hover styling contact button */
+.hover2-text{
+  display: none;
+  position:absolute;
+  top: 100%;
+  left: 0;
+  width:100%;
+  background-color: var(--dark);
+  padding: 10px;
+  border: 1px solid var(--dark);
+  font-size: 14px;
+}
+.button-two:hover .hover2-text{
+  display:block;
+}
+
 footer{
   position: relative;
   width: 100%;
