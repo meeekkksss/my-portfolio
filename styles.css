@@ -182,7 +182,8 @@ h4{
 .about img{
   height: 500px; 
   width: 750px;
-  margin-right: 80px;
+  /* margin-right: 80px; */
+  float:left;
 }
 /* about me text styling */
 .about-text{
