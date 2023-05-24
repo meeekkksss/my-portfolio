@@ -2,6 +2,7 @@
 ## A passionate frontend developer from San Diego
 
 # Description 
+- 🔭 I’m currently working on [my-portfolio](https://meeekkksss.github.io/my-portfolio/?email=&submit=Let%27s+Start#home)
 
 ![Github](./GIthub%20Repo%20-%20My%20portfolio.png)
 * Released on Github (Cloud provider)
@@ -10,7 +11,6 @@
 
 ## Usage
 
-- 🔭 I’m currently working on [my-portfolio](https://meeekkksss.github.io/my-portfolio/?email=&submit=Let%27s+Start#home)
 This project was designed to demonstrate: 
 * Reflection on my accomplishments, skills , and experience as a webdeveloper
 * Showcase my knowledge on CSS & HTML
