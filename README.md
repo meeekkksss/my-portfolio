@@ -23,9 +23,10 @@ To use my portfolio, you can view it by clicking the link below:
 
 [my-portfolio](https://meeekkksss.github.io/my-portfolio/?email=&submit=Let%27s+Start#home)
 
-- 👯 I’m looking to collaborate on future projects
+When developers view the source code they will be able to find and view the stru
+- 👯 I’m looking to collaborate on future projects. 
 
-- 🤝 I’m looking for help with futre project and learning more
+- 🤝 I’m looking for help with futre projecs and learning new skills.
 
 - 👨‍💻 All of my projects will be available soon. 
 
