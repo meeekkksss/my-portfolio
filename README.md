@@ -15,4 +15,4 @@ This project was designed to demonstrate:
 
 ## Usage 
 
-![Main Sectopm](file:///Users/merikatoby/MAIN%20SECTION.png)
+![Main Section](./assets/MAIN%20SECTION.png)
