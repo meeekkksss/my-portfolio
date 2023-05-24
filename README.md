@@ -1,27 +1,21 @@
 <h1 align="center">Hi 👋, I'm Merika Toby</h1>
 <h3 align="center">A passionate frontend developer from San Diego</h3>
-A portfolio about me and my skills as webdeveloper.
-![Main Section](./MAIN%20SECTION.png)
-![About Me](./About%20Me%20Section.png)
-![Contact](#)
-## Author
-Merika Toby
-* Initial work- git@github.com:meeekkksss/my-portfolio.git (Repository space)
-![Github Repo](./GIthub%20Repo%20-%20My%20portfolio.pngGIthub%20Repo%20-%20My%20portfolio.png/GIthub%20Repo%20-%20My%20portfolio.png)
+
+![Github](./GIthub%20Repo%20-%20My%20portfolio.png)
 * Released on Github (Cloud provider)
 
+* Initial work - git@github.com:meeekkksss/my-portfolio.git (Repository space)
 ## Showcase 
+- 🔭 I’m currently working on [my-portfolio](https://meeekkksss.github.io/my-portfolio/?email=&submit=Let%27s+Start#home)
 This project was designed to demonstrate: 
 * CSS 
 * HTML
 * What I've learned so far
 * Implementing skills and showecasing what I've learned so 
+![Main-content](./MAIN%20SECTION.png)
+![About Me](./About%20Me%20Section.png)
 
 ## Usage 
-
-
-
-- 🔭 I’m currently working on [my-portfolio](https://meeekkksss.github.io/my-portfolio/?email=&submit=Let%27s+Start#home)
 
 - 👯 I’m looking to collaborate on [coming to you soon](coming to you soon)
 
