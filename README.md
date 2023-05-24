@@ -15,4 +15,4 @@ This project was designed to demonstrate:
 
 ## Usage 
 
-![alt text] (file:///Users/merikatoby/MAIN%20SECTION.png)
+![Main Sectopm](file:///Users/merikatoby/MAIN%20SECTION.png)
