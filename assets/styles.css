@@ -114,6 +114,28 @@ nav ul li a:hover{
   -ms-transform:translateY(-50%);
   -o-transform:translateY(-50%);
 }
+
+/* typing demo */
+.typing-demo {
+  width: 30ch;
+  animation: typing 2s steps(33), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow:hidden;
+  border-right: 3px solid;
+  font-family: monospace;
+  font-size: 2em;
+  align-items: center;
+}
+
+@keyframes typing{
+  from{width: 0;}
+}
+@keyframes blink{
+  50% {
+    border-color: transparent;
+  }
+}
+
 /* Styling to Merika section */
 .content h1{
   color: var(--grey);
@@ -131,7 +153,7 @@ h3{
 h4{
   color: var(--blue);
   letter-spacing: 2px;
-  font-size: 20px;
+  font-size: 30px;
 }
 /* Email styling */
 .email form{
