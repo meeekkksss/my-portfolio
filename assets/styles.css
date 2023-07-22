@@ -5,6 +5,20 @@
   font-family: 'Shadows Into Light' cursive;
   box-sizing:border-box;
 }
+/* root colors */
+:root{
+  --light-blue:#c4dfdf;
+  --blue: #08D9D6;
+  --dark: #252a34;
+  --hot-pink: hotpink;
+  --crimson:#ff2e63;
+  --grey:#eaeaea;
+  --purple: #603f8b;
+  --violet: #a16ae8;
+  --fuscha: #fd49a0;
+  --aqua: #b4fee7;
+  --background: rgb(46, 53, 75);
+}
 /* Hero/Main section */
 .hero{
   height: 100vh;
@@ -205,7 +219,7 @@ h4{
   height: 500px; 
   width: 750px;
   margin-right: 80px;
-  box-shadow:  10px 10px 28px var(--violet), 0 -10px 20px -5px var(--crimson);
+  box-shadow:  10px 10px 28px var(--blue), 0 -10px 20px -5px var(--crimson);
 }
 /* about me text styling */
 .about-text{
@@ -314,7 +328,7 @@ button:hover{
   text-align: center;
   cursor: pointer;
   transition: transform 0.3s;
-  box-shadow: 10px 10px 28px var(--violet), 0 -10px 20px -5px var(--crimson);
+  box-shadow: 10px 10px 28px var(--blue), 0 -10px 20px -5px var(--crimson);
 }
 
 .ccard i{ 
@@ -403,6 +417,7 @@ button:hover{
   position: relative;
   overflow:hidden;
   text-align: center;
+  box-shadow:  10px 10px 28px var(--violet), 0 -10px 20px -5px var(--crimson);
 }
 .card i{
   font-size: 50px; 
@@ -455,7 +470,7 @@ h5{
   align-items: center; 
   flex-direction: column;
   justify-content: center;
-  padding: 50px 30px;
+  padding: 150px;
 }
 .contact-me p{
   color: rgb(46, 53, 75));
@@ -568,17 +583,3 @@ footer p:nth-child(2){
 
 
 
-
-:root{
-  --light-blue:#c4dfdf;
-  --blue: #08D9D6;
-  --dark: #252a34;
-  --hot-pink: hotpink;
-  --crimson:#ff2e63;
-  --grey:#eaeaea;
-  --purple: #603f8b;
-  --violet: #a16ae8;
-  --fuscha: #fd49a0;
-  --aqua: #b4fee7;
-  --background: rgb(46, 53, 75);
-}
