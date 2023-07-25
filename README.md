@@ -15,15 +15,15 @@ This project was designed to demonstrate:
 * Reflection on my accomplishments, skills , and experience as a webdeveloper
 * Showcase my knowledge on CSS & HTML
 <!-- * Implementing skills and showecasing my skills so far -->
-![Main-content](./MAIN%20SECTION.png)
-![About Me](./About%20Me%20Section.png)
+![Main-content](/assets/images/MAIN%20SECTION.png)
+![About Me](/assets/images/About%20Me%20Section.png)
 
 ## Usage 
 To use my portfolio, you can view it by clicking the link below:
 
 [my-portfolio](https://meeekkksss.github.io/my-portfolio/?email=&submit=Let%27s+Start#home)
 
-When developers view the source code they will be able to find and view the stru
+When developers view the source code they will be able to find and view the structure of my portfolio
 - 👯 I’m looking to collaborate on future projects. 
 
 - 🤝 I’m looking for help with futre projecs and learning new skills.
